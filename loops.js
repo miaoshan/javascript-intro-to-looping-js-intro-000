@@ -5,5 +5,5 @@ for (var i=0; i<25; i++){
   }
   else{"I am ${i} strange loops"}
 }
-  
+
 }
